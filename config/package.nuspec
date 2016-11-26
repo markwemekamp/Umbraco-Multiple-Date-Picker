@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>UmbracoMultipleDatePicker</id>
+        <version><%= version %></version>
+        <title><%= name %></title>
+        <authors>markwemekamp</authors>
+        <owners>markwemekamp</owners>
+        <projectUrl>https://github.com/markwemekamp/Umbraco-Multiple-Date-Picker</projectUrl>
+        <description><![CDATA[Multiple Date Picker for Umbraco]]></description>
+        <tags>umbraco, date</tags>
+        <licenseUrl><%= licenseUrl %></licenseUrl>
+        <dependencies>
+            <dependency id="UmbracoCms.Core" version="7.0" />
+        </dependencies>
+    </metadata>
+</package>

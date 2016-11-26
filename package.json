@@ -1,0 +1,16 @@
+{
+    "name": "UmbracoMultipleDatePicker",
+    "version": "0.0.0",
+    "dependencies": {
+        "grunt-nuget": "~0.1.1",
+        "grunt-template": "~0.2.2",
+        "grunt-umbraco-package": "^1.0.0",
+        "grunt-contrib-clean": "~0.5.0",
+        "grunt-contrib-copy": "~0.5.0",
+        "load-grunt-tasks": "~0.4.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/markwemekamp/Umbraco-Multiple-Date-Picker.git"
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"name": "Multiple Date Picker",
+	"directory": "MultipleDatePicker",
+	"version": "0.1",
+	"url": "http://github.com/markwemekamp/Umbraco-Multiple-Date-Picker",
+	"author": "Mark Wemekamp",
+	"authorUrl": "http://www.markwemekamp.com",
+	"license": "MIT",
+	"licenseUrl": "http://opensource.org/licenses/MIT"
+}
