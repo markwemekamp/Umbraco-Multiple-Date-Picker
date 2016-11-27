@@ -50,3 +50,4 @@ package.bat
 node_modules/
 tmp/
 pkg/
+dist/

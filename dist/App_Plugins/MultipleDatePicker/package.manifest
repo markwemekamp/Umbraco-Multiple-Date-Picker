@@ -5,16 +5,16 @@
             name: "Multiple Date Picker",
             icon: "icon-calendar-alt",
             editor: {
-                view: "~/App_Plugins/MultiDatePicker/editor.html",
+                view: "~/App_Plugins/MultipleDatePicker/editor.html",
                 valueType: "JSON"
             }
         }
     ],
     javascript: [
-		'~/App_Plugins/MultiDatePicker/js/multipleDatePicker.min.js',
-    '~/App_Plugins/MultiDatePicker/editor.controller.js'
+		'~/App_Plugins/MultipleDatePicker/js/multipleDatePicker.min.js',
+    '~/App_Plugins/MultipleDatePicker/editor.controller.js'
     ],
 	css : [
-		'~/App_Plugins/MultiDatePicker/css/multipleDatePicker.css'
+		'~/App_Plugins/MultipleDatePicker/css/multipleDatePicker.css'
 	]
 }
